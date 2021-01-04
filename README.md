@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
+<br></br>
+This project is hosted on Firebase at the following link: https://airbnb-replica-8fe6d.web.app/.
 
 ## Available Scripts
 
